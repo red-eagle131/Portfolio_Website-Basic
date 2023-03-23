@@ -1,2 +1,2 @@
-# First_Project
-A portfolio Responsive Website using HTML,CSS AND Javascipt
+# Portfolio website
+My first portfolio Responsive Website using HTML,CSS AND Javascipt.
