@@ -57,13 +57,6 @@ html{
     padding:0 23px;
 }
 
-#search{
-    padding: 5px;
-    font-size:17px;
-    border: 2px solid grey;
-    border-radius: 9px;
-}
-
 .background{
     background:rgba(0,0,0,0.7) url('../bg2.gif');
     background-size: cover;
@@ -128,7 +121,7 @@ html{
 }
 
 .btn:hover{
-    background-color: rgb(9, 206, 26);
+    background-color: rgb(161, 156, 156);
 }
 .btn-sm{
     padding: 6px 10px;
@@ -242,10 +235,6 @@ html{
     height:2px;
     background:#f00;
 }
-/* footer p
-{
-    color:#999;
-} */
 .sci
 {
     margin-top:20px;
@@ -277,46 +266,6 @@ html{
     color:#fff;
     font-size:20px;
 }
-/* .quickLinks
-{
-    position: relative;
-}
-footer .quickLinks h2
-{
-    position: relative;
-    color: #fff;
-    font-weight:500;
-    margin-bottom: 15px;
-}
-footer .quickLinks h2:before
-{
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left:0;
-    width:50px;
-    height:2px;
-    background:#f00;
-}
-.quickLinks ul li
-{
-    list-style: none;
-}
-.quickLinks ul li a
-{
-    color:#999;
-    text-decoration: none;
-    margin-bottom: 10px;
-    display:inline-block;
-}
-.quickLinks ul li a:hover
-{
-    color:#fff;
-}
-footer .quickLinks
-{
-    width:100%;
-} */
 .contacts h2
 {
     position: relative;
